@@ -12,7 +12,7 @@ Signup to OpenAI and insert the API key in openai.js file. Create a .env if you'
 
 ### Compiles and minifies for production
 ```
-npm run build - this will create a disti folder in which electron will use 
+npm run build - this will create a dist folder in which electron will use 
 npm run electron:start
 ```
 
