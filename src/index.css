@@ -1,0 +1,74 @@
+/* ./src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+    font-family: "rubik";
+    src: url("./assets/fonts/Rubikmedium.ttf");
+    }
+    
+    @font-face {
+        font-family: "rubikreg";
+        src: url("./assets/fonts/Rubikreg.ttf");
+        }
+    
+    @font-face {
+        font-family: "rubikitalic";
+        src: url("./assets/fonts/RubikItalic.ttf");
+        }
+    
+     @font-face {
+        font-family: "rubiklight";
+        src: url("./assets/fonts/Rubiklight.ttf");
+        }
+    
+    @font-face {
+        font-family: "rubikbold";
+        src: url("./assets/fonts/RubikBold.ttf");
+            }
+    
+      @font-face {
+        font-family: "rubikblack";
+         src: url("./assets/fonts/RubikBlack.ttf");
+             }
+    
+      @font-face {
+        font-family: "rubikblackitalic";
+        src: url("./assets/fonts/RubikBlackItalic.ttf");
+             }
+    
+       @font-face {
+              font-family: "rubikextrabolditalic";
+              src: url("./assets/fonts/RubikExtraBoldItalic.ttf");
+                   }
+        @font-face {
+                font-family: "SFRegular";
+                src: url("./assets/fonts/SFRegular.otf");
+                         }
+         @font-face {
+                font-family: "SFMedium";
+                src: url("./assets/fonts/SFMedium.otf");
+                                     }
+        @font-face {
+                font-family: "SFSemibold";
+                src: url("./assets/fonts/SFSemibold.otf");
+                                                             }
+         @font-face {
+        font-family: "SFLight";
+        src: url("./assets/fonts/SFLight.otf");
+
+
+        
+                                             }
+ @layer components {
+ a {
+text-decoration: underline;   
+ }
+ }
+    
+
+    
+
+                                                       
