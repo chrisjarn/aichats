@@ -4,6 +4,7 @@ Electron app with menubar utlizing GPT-3 OpenAI (ChatGPT). Theme is based on iMe
 - Vue.Js
 - TailwindCSS
 - SCSS
+- Electron
 - Typescript
 - MenuBar dependency 
 
