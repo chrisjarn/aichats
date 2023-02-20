@@ -21,4 +21,10 @@ Electron app with menubar utlizing GPT-3 OpenAI (ChatGPT). Theme is based on iMe
 
 ```
 
+## Project Build
+```
+ - npm run make - will create an out & make folder. Executable file will be in here.
+ This will make an executable file based on the OS you're currently using
+```
+
 ![Recording 2023-02-20 at 10 01 32](https://user-images.githubusercontent.com/83709354/219992185-98067384-a74c-429a-b457-15984cd5f324.gif)
