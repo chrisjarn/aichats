@@ -17,3 +17,5 @@ npm run electron:start
 ```
 
 <img width="450" alt="Screenshot 2023-02-19 at 9 22 42 pm" src="https://user-images.githubusercontent.com/83709354/219951016-9cca0560-1484-4502-8b99-faca7b29e90c.png">
+
+![Recording 2023-02-20 at 10 01 32](https://user-images.githubusercontent.com/83709354/219992185-98067384-a74c-429a-b457-15984cd5f324.gif)
