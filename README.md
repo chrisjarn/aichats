@@ -1,5 +1,11 @@
 # AI-LIT
-Electron app with menubar utlizing GPT-3. Theme is based on a mixture between iMessage & Insta. Made with Vue, Tailwind. 
+Electron app with menubar utlizing GPT-3 OpenAI (ChatGPT). Theme is based on iMessage and a mix of insta & fb messenger. Made with 
+
+- Vue.Js
+- TailwindCSS
+- SCSS
+- Typescript
+- MenuBar dependency 
 
 ## Project setup
 ```
